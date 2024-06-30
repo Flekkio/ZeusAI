@@ -1,0 +1,2 @@
+# ZeusAI
+My personal AI
