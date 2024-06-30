@@ -1,0 +1,41 @@
+:root {
+    --block-background-fill: transparent !important;
+    --background-fill-primary : transparent !important;
+    --background-fill-secondary : transparent !important;
+}
+
+gradio-app {
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://static.vecteezy.com/ti/vecteur-libre/p1/1845998-abstrait-noir-et-or-fond-polygonal-vectoriel.jpg') !important;
+    background-size: cover !important;
+}
+
+footer {
+    display: none !important;
+}
+
+.gradio-container .avatar-container.svelte-x4qvqz.svelte-x4qvqz {
+    height: 66px !important;
+    width: 66px !important;
+}
+
+.user-row.bubble.svelte-x4qvqz.svelte-x4qvqz {
+    align-items: center !important;
+}
+
+.gradio-container h1 {
+    font-size: 60px !important;
+    letter-spacing: 0.35rem;
+    line-height: 1 !important;
+    font-weight: black !important;
+    background: linear-gradient(185deg, #8E43AD, #8E43AD, #000000) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+}
+
+.gradio-container .pending.svelte-1gpwetz {
+    background: transparent !important;
+}  
+
+.gradio-container .label.svelte-p5q82i.svelte-p5q82i.svelte-p5q82i {
+    display: none !important;
+}
